@@ -1,5 +1,5 @@
 <h2 align="center">Hello!! I'm Silvi 👋</h2>
-<h3 align="center">I am an intrigued, enthusiastic learner intersted in web development.</h3>
+<h3 align="center">I am an intrigued, enthusiastic learner interested in web development.</h3>
 
 
 ## About Me 🙋‍♀️
