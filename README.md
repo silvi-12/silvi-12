@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate on any project in which I can learn and contribute 
 - 🤔 I’m looking for help with developing my skill sets in web development
 - 💬 Ask me about ...anything based on my tech stack, I'll surely try to help
-- 📫 How to reach me: guptasilvi123@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/silvigupta
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I believe in learning, exploring and contributing at the same time.
+- ⚡ Fun fact: People believe me, actually more than what I do.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/silvi-gupta-4175b41a4) 
