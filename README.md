@@ -4,7 +4,7 @@
 
 ## About Me 🙋‍♀️
 - 🔭 I’m currently working on front end web development 
-- 🌱 I’m currently learning react js and blockchain
+- 🌱 I’m currently learning web dev technologies
 - 👯 I’m looking to collaborate on any project in which I can learn and contribute 
 - 🤔 I’m looking for help with developing my skill sets in web development
 - 💬 Ask me about ...anything based on my tech stack, I'll surely try to help
